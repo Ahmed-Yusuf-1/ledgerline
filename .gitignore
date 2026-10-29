@@ -1,0 +1,18 @@
+# --- Private mentor & learning files: never commit or publish ---
+CLAUDE.md
+PROJECT_CONTEXT.md
+ROADMAP.md
+PROGRESS.md
+docs/interview-prep.md
+docs/learning-log.md
+claude-code-mentor-prompt*.md
+.claude/
+
+# --- Build output, IDE and local files ---
+.idea/
+*.iml
+target/
+build/
+*.class
+*.log
+.env
