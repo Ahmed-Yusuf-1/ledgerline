@@ -1,6 +1,6 @@
 # Ledgerline
 
-**A personal banking simulator, built the way real banks build software.**
+**A personal banking simulator**
 
 Ledgerline is a web app where you can open accounts, move money between them, and see where your money goes. All of it uses **fake money**. The point isn't the money. It's the engineering underneath: keeping every balance correct, never charging anyone twice, and keeping a record of everything that happens.
 
@@ -92,4 +92,4 @@ Ledgerline is a learning and portfolio project. It is **not** a real bank, it ha
 
 ---
 
-Built by **Ahmed Yusuf**, software development student.
+Built by **Ahmed Yusuf**, software developer
